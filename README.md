@@ -9,7 +9,7 @@
 - **Activity:** Activity 8 — HackerRank Algorithmic Problem-Solving
 
 ## HackerRank Profile
-[View my HackerRank Profile](https://www.hackerrank.com/PALLAVI1300)
+ [View my HackerRank Profile](https://www.hackerrank.com/profile/pallavipn622)
 
 ## Problem Set & Complexity Analysis
 
